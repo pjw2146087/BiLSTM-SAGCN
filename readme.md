@@ -1,4 +1,3 @@
+This code file is the reference code for the agricultural machinery trajectory operation mode identification BiLSTM-SAGCN models
 
-This code file is the reference code for the field segmentation AttBiLSTM and GCN models, including the GCN and AttBiLSTM models that can learn adj. In addition, in order to speed up training and make training more stable.
-
-Once the paper get published, the source code will be uploaded immediately.
+Once the paper <<BiLSTM-SAGCN: a hybrid model of BiLSTM with a semiadaptation graph convolutional network for agricultural machinery trajectory operation mode identification>> get published, the source code will be uploaded immediately.
